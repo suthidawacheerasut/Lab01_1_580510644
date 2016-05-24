@@ -1,0 +1,11 @@
+
+.header {
+color: #00FFFF;
+background-color: #000000;
+border: 5px solid #CCFF00;
+padding: 12px;
+text-align: center;
+box-shadow: 10px 10px 5px gray;
+}body {
+background-color: #FF99FF;
+}
